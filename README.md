@@ -1,3 +1,3 @@
-# HTML - Contact Page
+# HTML - Rooms Page
 ## Description
-Below is a contact page that was created for Cherry Valley Golf Course using HTML and CSS.
+Below is a page showcasing rooms available for a bed & breakfast using HTML and CSS.
